@@ -76,14 +76,14 @@ Five new features were derived from existing columns:
 ### Chart 1 — Overview Dashboard
 Six-panel grid covering survival counts, survival by gender, by passenger class, age distribution, fare distribution, and port of embarkation.
 
-![Overview Dashboard](chart1_overview_dashboard.png)
+
 
 ---
 
 ### Chart 2 — Survival Rates (%)
 Bar charts showing survival rate percentage across gender, class, and age group with a 50% reference line.
 
-![Survival Rates](chart2_survival_rates.png)
+
 
 ---
 
@@ -91,7 +91,6 @@ Bar charts showing survival rate percentage across gender, class, and age group 
 - **Correlation matrix** across all numeric features
 - **Pivot heatmap** of survival rate % broken down by Pclass × Gender
 
-![Heatmaps](chart3_heatmaps.png)
 
 ---
 
@@ -100,14 +99,14 @@ Bar charts showing survival rate percentage across gender, class, and age group 
 - Survival rate by fare band (bar chart)
 - Survival count by cabin record availability
 
-![Family Fare Cabin](chart4_family_fare_cabin.png)
+
 
 ---
 
 ### Chart 5 — Data Quality Report
 Side-by-side missing value comparison — before and after cleaning — with percentage bars per column.
 
-![Data Quality](chart5_data_quality.png)
+
 
 ---
 
