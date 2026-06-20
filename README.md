@@ -169,6 +169,12 @@ Raw data sourced from the [DataScienceDojo Datasets repository](https://github.c
 
 ---
 
-##  License
+##  Author
 
-This project is open source and available under the [MIT License](LICENSE).
+**Hardik Kumar**
+📧 hardikumar131206@gmail.com
+🔗 [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hardik-kumar-7631a832b)
+🐙 [github.com/your-username](https://github.com/hardikkumar131206-source)
+
+---
+
